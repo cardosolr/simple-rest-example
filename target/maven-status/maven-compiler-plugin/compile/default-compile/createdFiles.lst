@@ -1,0 +1,6 @@
+aluno/model/Aluno.class
+aluno/service/AlunoService.class
+aluno/controller/AlunoController.class
+greeting/model/Greeting.class
+greeting/Application.class
+greeting/controller/GreetingController.class
